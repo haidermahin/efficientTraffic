@@ -23,7 +23,7 @@ const originalItems: MenuProps['items'] = [
   {
     key: 'item-2',
     href: '/control-plan',
-    label: <Link href='/control-plan'>Traffic management plans (TMP)</Link>,
+    label: <Link href='/control-plan'>Traffic  Control Plan</Link>,
   },
   {
     key: 'item-3',
